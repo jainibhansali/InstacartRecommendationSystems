@@ -9,4 +9,14 @@ python instacartluigi.py uploadziptos3 --local-scheduler --akey "your access key
 ####  docker pull tushargl016/luigiinstacartpipeline
 ####  docker run -e akey=awsaccesskey -e skey=awssecretkey  -ti tushargl016/luigiinstacartpipeline
 
+#### Or if you want you can build your own docker image using the following commands
+    To build locally and run
+    docker build -f dock -t luigiinstacartpipeline .
+    docker run -e akey=awsaccesskey -e skey=awssecretkey -ti luigiinstacartpipeline
+    
+    #### you can push this image to your dockerhub using 
+    
+    docker tag <imageid> <username>/luigiinstacartpipeline:latest
+    Docker push <username>/luigiinstacartpipeline
+    
 ### Note: Make sure you provide your AWS access key and secret access key or the job will fail because the data will be uploaded to your se bucket
