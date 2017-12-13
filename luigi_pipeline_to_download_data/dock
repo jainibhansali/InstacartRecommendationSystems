@@ -1,0 +1,27 @@
+FROM ubuntu:14.04
+FROM python:3
+
+RUN mkdir -p /usr/src/finproject
+WORKDIR /usr/src/finproject
+
+RUN pip install pandas
+RUN pip install boto3
+RUN pip install numpy
+RUN pip install boto
+RUN pip install urllib3
+RUN pip install requests
+RUN pip install html5lib
+RUN pip install bs4
+RUN pip install lxml
+RUN pip install matplotlib
+RUN pip install luigi
+
+
+ENV akey 1
+ENV skey 1
+
+
+
+COPY test.py /usr/src/finproject/
+
+CMD ["sh","-c","python /usr/src/finproject/test.py Test --local-scheduler --akey ${akey} --skey ${skey} "] 
