@@ -1,0 +1,8 @@
+.top_bar{background:#F26522;padding:5 px 0;}
+.social_icons{margin-right:5px;}
+.contact_info{color:#FFF; font:16px;}
+.my_menu{margin-top:27px;}
+.blue_color{#0000FF;padding:5 px 0;}
+.my_menu .navbar-default{background:none; border:none;}
+.my_menu .navbar-nav .active a,.my_menu .navbar-nav .active a:hover{background:#F26522; color:#ffff;}
+.my_menu .navbar-nav li a:hover{background:#F26522; color:#ffff;}
