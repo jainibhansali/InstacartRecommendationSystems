@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Login Page</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{url_for('static',filename='css/bootstrap.css')}}"/>
+<link rel="stylesheet" href="{{url_for('static',filename='css/mystyle.css')}}"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css"/>
+</head>
+<body>
+<!--header-->
+<div class="container-fluid top_bar">
+<div class="container">
+<div class="row"><!--end of row-->
+<div class="col-sm-3">
+<a href="#" class="social_icons"><i class="fa fa-facebook" style="font-size:17px; color:#fff;"></i></a>
+<a href="#"  class="social_icons"><i class="fa fa-twitter" style="font-size:17px; color:#fff;"></i></a>
+<a href="#"  class="social_icons"><i class="fa fa-youtube-play" style="font-size:17px; color:#fff;"></i></a>
+<a href="#"  class="social_icons"><i class="fa fa-google-plus" style="font-size:17px; color:#fff;"></i></a>
+</div>
+<div class="col-sm-9 text-right contact_info">Instacart Market Basket Analysis : https://www.kaggle.com/c/instacart-market-basket-analysis/kernels
+</div>
+</div>
+</div><!--end of container-->
+</div><!--end of container fluid-->
+<!--logo and navigation-->
+
+<div class="container">
+<div class="row">
+<div class="col-sm-5">
+<img src="{{url_for('static',filename='images/logo.png')}}" alt=""/>
+</div>
+<div class="col-sm-7 my_menu">
+<nav class="navbar  navbar-default"> 
+
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar">
+         <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span> 
+      </button>
+	  </div>
+<div class="collapse navbar-collapse" id="mynavbar">
+<ul class="nav navbar-nav ">
+      <li class="active"><a href="/">Home</a></li>
+      <li><a href="/products">Products</a></li>
+	        <li><a href="/company">Company</a></li>
+	{% if user %}		
+			<li><a href="/logout">Logout</a></li>
+    {% else %}
+	<li><a href="/login">Login</a></li>
+	{% endif %}
+	</ul>
+     </div>
+  </nav>
+  </div>
+  </div>
+  </div>
+
+
+<!--end of row-->
+<!--end og logo and navigation-->
+
+<!--end of header-->
+<div class="container-fluid">
+<div class="row ">
+
+<img src="{{url_for('static',filename='images/slider.jpg')}}" alt="" class="img-responsive" style="margin-left:120px" />
+</div>
+</div>
+<br>
+<div class="container">
+  <h2>Login</h2>
+  <form action="/login" method="post">
+  Username: <input type=" text" name="username"><br>
+  <br>
+  Password: <input type="password" name="password"><br><br>
+ <input type="submit" value="Login">
+  </form>
+{% if loginerror %}
+{{loginerror}}
+{% endif %}
+</body>
+</html>

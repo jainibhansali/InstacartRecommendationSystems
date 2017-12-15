@@ -1,0 +1,163 @@
+<!DOCTYPE HTML>
+<html lang="en US">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-compatible" Content="IE=edge,chrome=1">
+<meta name="viewport" content="width-device-width">
+<title>Instacart Market Basket Analysis</title>
+<link rel="stylesheet" href="{{url_for('static',filename='css/bootstrap.css')}}"/>
+<link rel="stylesheet" href="{{url_for('static',filename='css/mystyle.css')}}"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css"/>
+</head>
+<body>
+<!--header-->
+<div class="container-fluid top_bar">
+<div class="container">
+<div class="row"><!--end of row-->
+<div class="col-sm-3">
+<a href="#" class="social_icons"><i class="fa fa-facebook" style="font-size:17px; color:#fff;"></i></a>
+<a href="#"  class="social_icons"><i class="fa fa-twitter" style="font-size:17px; color:#fff;"></i></a>
+<a href="#"  class="social_icons"><i class="fa fa-youtube-play" style="font-size:17px; color:#fff;"></i></a>
+<a href="#"  class="social_icons"><i class="fa fa-google-plus" style="font-size:17px; color:#fff;"></i></a>
+</div>
+<div class="col-sm-9 text-right contact_info">Instacart Market Basket Analysis : https://www.kaggle.com/c/instacart-market-basket-analysis/kernels
+</div>
+</div>
+</div><!--end of container-->
+</div><!--end of container fluid-->
+<!--logo and navigation-->
+
+<div class="container">
+<div class="row">
+<div class="col-sm-5">
+<img src="{{url_for('static',filename='images/logo.png')}}" alt=""/>
+</div>
+<div class="col-sm-7 my_menu">
+<nav class="navbar  navbar-default"> 
+
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar">
+         <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span> 
+      </button>
+	  </div>
+<div class="collapse navbar-collapse" id="mynavbar">
+   <ul class="nav navbar-nav ">
+      <li class="active"><a href="/">Home</a></li>
+      <li><a href="/products">Products</a></li>
+	        <li><a href="/company">Company</a></li>
+	{% if user %}		
+			<li><a href="/logout">Logout</a></li>
+    {% else %}
+	<li><a href="/login">Login</a></li>
+	{% endif %}
+	</ul>
+    
+  </div>
+  </nav>
+  </div>
+  </div>
+  </div>
+  </head>
+<body>
+<div class="container-fluid">
+<div class="row ">
+
+<img src="{{url_for('static',filename='images/slider.jpg')}}" class="img-responsive" style="margin-left:120px" />
+</div>
+</div>
+<br>
+<div class="container-fluid">
+<div class="row ">
+<div class="col-sm-2">
+
+<a href="/department/produce"class="btn btn-info btn-block role="button">produce</a>
+<a href="/department/dairy eggs"class="btn btn-info btn-block role="button">dairy eggs</a>
+<a href="/department/snacks"class="btn btn-info btn-block role="button">snacks</a>
+<a href="/department/beverages"class="btn btn-info btn-block role="button">beverages</a>
+<a href="/department/frozen" class="btn btn-info btn-block role="button">frozen</a>
+<a href="/department/pantry"class="btn btn-info btn-block role="button">pantry</a>
+<a href="/department/breakfast"class="btn btn-info btn-block role="button">breakfast</a>
+<a href="/department/canned goods"class="btn btn-info btn-block role="button">canned goods</a>
+<a href="/department/deli"class="btn btn-info btn-block role="button">deli</a>
+<a href="/department/dry goods pasta"class="btn btn-info btn-block role="button">dry goods pasta</a>
+<a href="/department/pets"class="btn btn-info btn-block role="button">pets</a>
+<a href="/department/household"class="btn btn-info btn-block role="button">household</a>
+<a href="/department/meat seafood"class="btn btn-info btn-block role="button">meat seafood</a>
+<a href="/department/personal care"class="btn btn-info btn-block role="button">personal care</a>
+<a href="/department/bakery"class="btn btn-info btn-block role="button">bakery</a>
+<a href="/department/alcohol"class="btn btn-info btn-block role="button">alcohol</a>
+<a href="/department/international"class="btn btn-info btn-block role="button">international</a>
+<a href="/department/bulk"class="btn btn-info btn-block role="button">bulk</a>
+<a href="/department/babies"class="btn btn-info btn-block role="button">babies</a>
+<a href="/department/missing"class="btn btn-info btn-block role="button">missing</a>
+<a href="/department/other"class="btn btn-info btn-block role="button">others</a>
+</div>
+
+<div class="col-sm-8">
+<h3> Product </h3>
+<div class="col-md-4">
+<div class="thumbnail">
+<img src="images/Half & Half.jpg"  alt="" class="img-responsive" />
+ <div class="caption">
+          <p align="center">{{ itemname }}</p>
+ 
+ </div>
+</div>
+</div>
+<div class="jumbotron">
+<p text-align: justify> Price = 50 </p>
+  <p text-align: justify> In Stock.</p>
+ <a href="#" class="btn btn-info btn-lg my_menu"><span class="glyphicon glyphicon-shopping-cart"></span> Add to Cart</a>
+</div>
+<div class="col-md-10">
+<hr style="width:500">
+</div>
+</div>
+
+{% if associates %}
+		<div class="col-sm-8">
+			<br>
+			<h3> Frequently bought Together  </h3>
+			{% for item in associates %}
+			  <div class="col-md-2">
+			<div class="thumbnail">
+			
+		<img src="images/Bag of Organic Bananas.jpg"  alt="" class="img-responsive" />
+			 <div class="caption">
+					  <p><a href="/itempage/{{item}}">{{item}}</a></p>
+					</div>
+			</div>
+			</div>
+			{% endfor %}
+		</div>
+		
+		{% else %}
+		
+		<div class="col-sm-8">
+			<br>
+			<h3> More in this department  </h3>
+			{% for item in topseller %}
+			  <div class="col-md-2">
+			<div class="thumbnail">
+			
+		<img src="images/Bag of Organic Bananas.jpg"  alt="" class="img-responsive" />
+			 <div class="caption">
+					  <p><a href="/itempage/{{item}}">{{item}}</a></p>
+					</div>
+			</div>
+			</div>
+			{% endfor %}
+		</div>
+		
+{% endif %}
+
+</div>
+
+
+
+</body>
+</html>
+
+

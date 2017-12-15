@@ -1,0 +1,94 @@
+<!DOCTYPE HTML>
+<html lang="en US">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-compatible" Content="IE=edge,chrome=1">
+<meta name="viewport" content="width-device-width">
+<title>Instacart Market Basket Analysis</title>
+<link rel="stylesheet" href="{{url_for('static',filename='css/bootstrap.css')}}"/>
+<link rel="stylesheet" href="{{url_for('static',filename='css/mystyle.css')}}"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css"/>
+</head>
+<body>
+<!--header-->
+<div class="container-fluid top_bar">
+<div class="container">
+<div class="row"><!--end of row-->
+<div class="col-sm-3">
+<a href="#" class="social_icons"><i class="fa fa-facebook" style="font-size:17px; color:#fff;"></i></a>
+<a href="#"  class="social_icons"><i class="fa fa-twitter" style="font-size:17px; color:#fff;"></i></a>
+<a href="#"  class="social_icons"><i class="fa fa-youtube-play" style="font-size:17px; color:#fff;"></i></a>
+<a href="#"  class="social_icons"><i class="fa fa-google-plus" style="font-size:17px; color:#fff;"></i></a>
+</div>
+<div class="col-sm-9 text-right contact_info">Instacart Market Basket Analysis : https://www.kaggle.com/c/instacart-market-basket-analysis/kernels
+</div>
+</div>
+</div><!--end of container-->
+</div><!--end of container fluid-->
+<!--logo and navigation-->
+
+<div class="container">
+<div class="row">
+<div class="col-sm-5">
+<img src="{{url_for('static',filename='images/logo.png')}}" alt=""/>
+</div>
+<div class="col-sm-7 my_menu">
+<nav class="navbar  navbar-default"> 
+
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar">
+         <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span> 
+      </button>
+	  </div>
+<div class="collapse navbar-collapse" id="mynavbar">
+   <ul class="nav navbar-nav ">
+      <li class="active"><a href="#">Home</a></li>
+      </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/logout"><span class="glyphicon glyphicon-log-in"></span> Logout</a></li>
+    </ul>
+  </div>
+  </nav>
+  </div>
+  </div>
+  </div>
+
+
+<!--end of row-->
+<!--end og logo and navigation-->
+
+<!--end of header-->
+<div class="container-fluid">
+<div class="row ">
+
+<img src="{{url_for('static',filename='images/slider.jpg')}}" alt="" class="img-responsive" style="margin-left:120px" />
+</div>
+</div>
+<div class="container-fluid">
+<div class="row ">
+<br>
+<div class="col-sm-2">
+<a href="/eda" class="btn btn-info btn-block role="button">EDA</a>
+<a href="/admindashboard"class="btn btn-info btn-block role="button">Dashboard</a>
+</div>
+
+<div class="col-sm-7 my_menu">
+<div class="container">
+
+</div>
+</div>
+
+<iframe frameborder='0' noresize='noresize' style='position: absolute; background: transparent; width: 100%; height:100%;' src="{{ iframe }}" frameborder="0">
+ </iframe>
+ 
+
+
+  
+
+<script type="text/javascript" src="{{ url_for('static',filename='js/jquery.js')}}"></script>
+<script type="text/javascript" src="{{ url_for('static',filename='js/bootstrap.js')}}"></script>
+
+</body>
+</html>
