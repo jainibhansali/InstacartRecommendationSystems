@@ -7,4 +7,8 @@
 ### Made by:
               1. Tushar Goel 
               2. Jaini Bhansali
-                                                                                                      ### Professor-Srikanth Krishnamurthy
+### Professor-Srikanth Krishnamurthy
+
+##### This Github Repo contains the final project for the course INFO 7390 under the guidance of Professor Srikanth Krishnamurthy and TA Nand Govind Modani.
+
+##### Directory Structure of this repo:
