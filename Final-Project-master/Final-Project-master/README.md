@@ -20,4 +20,27 @@
   3. Models - This folder contains all the approaches with summary metrics that we used. It has 2 subfolders a. Apriori b. Recommendation Systems
   4. Webapp - Contains the whole code for the webapplication along with commands on how to run it and the script that can be used without the webapplication
   
+ Our Goal 
+
+Our aim was to create a recommendation system for Instacart. The recommendation system would help Instacart as follows: 
+1.	Instacart has a faithful following of users. Hence, Recommender system has the ability to predict whether a particular user would prefer an item or not, based on the user’s profile. This helps the seller and the consumer.
+2.	Instacart benefits as recommender systems reduce the transaction cost of finding and selecting items in an online shopping environment
+3.	Instacart Users benefit as this will  improve the decision making process and quality 
+4.	Recommender systems enhance revenue as it effectively enables selling products and hence, benefits by increasing revenues.
+5.	This also allows users to beyond catalog searches.
+Our Approach
+
+We have primarily used the following recommendation Systems:
+1.	Collaborative Filtering Technique – Model Based Filtration technique
+2.	Association Rule Mining – Apriori Algorithm
+
+
+
+Stakeholders Benefited
+1.	Instacart will benefit by enhanced revenues and retain its faithful customers luring them to come back each time
+2.	Instacart Customers will be the beneficiaries of this system as they will experience a better user experience, and also allow them to narrow their search based on the wide variety of products that Instacart provides. Thus, improving the decision making experience as well.
+
+In order to achieve our goal we used the Instacart Dataset that has been made public. The details of the dataset are present below.
+
+ 
 ### To get more details on the project please check the file FinalProjectReport.pdf
