@@ -3,6 +3,8 @@
 #### Link to Video Proposal - https://www.youtube.com/watch?v=mqcd3F2N5Io&feature=youtu.be
 #### Dataset Name and Link - https://www.kaggle.com/c/instacart-market-basket-analysis/data
 #### Link to Project Demo Website - 35.190.167.191
+##### Note to login try using any integer value from 1-230000 as username and any password, Also for accessing the admin page use username-admin, password-tushar
+
 #### Link for the presentation on SlideShare
 
 ### Made by:
