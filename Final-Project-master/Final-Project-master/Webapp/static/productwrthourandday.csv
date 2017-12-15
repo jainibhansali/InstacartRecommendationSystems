@@ -1,0 +1,505 @@
+order_dow,order_hour_of_day,product_id,count,product_name,aisle_id,department_id
+0,0,24852,580,Banana,24,4
+0,1,24852,334,Banana,24,4
+0,2,24852,184,Banana,24,4
+0,3,24852,110,Banana,24,4
+0,4,24852,103,Banana,24,4
+0,5,24852,172,Banana,24,4
+0,6,24852,624,Banana,24,4
+0,7,24852,2325,Banana,24,4
+0,8,24852,5158,Banana,24,4
+0,9,24852,7248,Banana,24,4
+0,10,24852,8430,Banana,24,4
+0,11,24852,8474,Banana,24,4
+0,12,24852,8532,Banana,24,4
+0,13,24852,8854,Banana,24,4
+0,14,24852,9147,Banana,24,4
+0,15,24852,9018,Banana,24,4
+0,16,24852,8443,Banana,24,4
+0,17,24852,6758,Banana,24,4
+0,18,24852,4939,Banana,24,4
+0,19,24852,3632,Banana,24,4
+0,20,24852,2974,Banana,24,4
+0,21,24852,2472,Banana,24,4
+0,22,24852,1908,Banana,24,4
+0,23,24852,1055,Banana,24,4
+1,0,24852,507,Banana,24,4
+1,1,24852,239,Banana,24,4
+1,2,24852,157,Banana,24,4
+1,3,24852,84,Banana,24,4
+1,4,24852,108,Banana,24,4
+1,5,24852,254,Banana,24,4
+1,6,24852,1013,Banana,24,4
+1,7,24852,3094,Banana,24,4
+1,8,24852,6203,Banana,24,4
+1,9,24852,9227,Banana,24,4
+1,10,24852,9104,Banana,24,4
+1,11,24852,7812,Banana,24,4
+1,12,24852,6984,Banana,24,4
+1,13,24852,6810,Banana,24,4
+1,14,24852,6845,Banana,24,4
+1,15,24852,6812,Banana,24,4
+1,16,24852,6412,Banana,24,4
+1,17,24852,5396,Banana,24,4
+1,18,24852,4307,Banana,24,4
+1,19,24852,3208,Banana,24,4
+1,20,24852,2343,Banana,24,4
+1,21,24852,1793,Banana,24,4
+1,22,24852,1271,Banana,24,4
+1,23,24852,767,Banana,24,4
+2,0,24852,371,Banana,24,4
+2,1,24852,174,Banana,24,4
+2,2,24852,88,Banana,24,4
+2,3,24852,87,Banana,24,4
+2,4,24852,96,Banana,24,4
+2,5,24852,206,Banana,24,4
+2,6,24852,714,Banana,24,4
+2,7,24852,2019,Banana,24,4
+2,8,24852,3582,Banana,24,4
+2,9,24852,5089,Banana,24,4
+2,10,24852,5250,Banana,24,4
+2,11,24852,5039,Banana,24,4
+2,12,24852,4554,Banana,24,4
+2,13,24852,4569,Banana,24,4
+2,14,24852,4903,Banana,24,4
+2,15,24852,4703,Banana,24,4
+2,16,24852,4933,Banana,24,4
+2,17,24852,4203,Banana,24,4
+2,18,24852,3578,Banana,24,4
+2,19,24852,2601,Banana,24,4
+2,20,24852,1987,Banana,24,4
+2,21,24852,1448,Banana,24,4
+2,22,24852,1115,Banana,24,4
+2,23,24852,693,Banana,24,4
+3,0,24852,343,Banana,24,4
+3,1,24852,166,Banana,24,4
+3,2,24852,94,Banana,24,4
+3,3,24852,76,Banana,24,4
+3,4,24852,97,Banana,24,4
+3,5,24852,180,Banana,24,4
+3,6,24852,704,Banana,24,4
+3,7,24852,1811,Banana,24,4
+3,8,24852,3107,Banana,24,4
+3,9,24852,4196,Banana,24,4
+3,10,24852,4605,Banana,24,4
+3,11,24852,4317,Banana,24,4
+3,12,24852,3953,Banana,24,4
+3,13,24852,4170,Banana,24,4
+3,14,24852,4296,Banana,24,4
+3,15,24852,4385,Banana,24,4
+3,16,24852,4440,Banana,24,4
+3,17,24852,3772,Banana,24,4
+3,18,24852,3275,Banana,24,4
+3,19,24852,2468,Banana,24,4
+3,20,24852,1749,Banana,24,4
+3,21,24852,1451,Banana,24,4
+3,22,24852,1065,Banana,24,4
+3,23,24852,614,Banana,24,4
+4,0,24852,318,Banana,24,4
+4,1,24852,151,Banana,24,4
+4,2,24852,97,Banana,24,4
+4,3,24852,73,Banana,24,4
+4,4,24852,97,Banana,24,4
+4,5,24852,181,Banana,24,4
+4,6,24852,625,Banana,24,4
+4,7,24852,1845,Banana,24,4
+4,8,24852,3060,Banana,24,4
+4,9,24852,4058,Banana,24,4
+4,10,24852,4421,Banana,24,4
+4,11,24852,4112,Banana,24,4
+4,12,24852,3858,Banana,24,4
+4,13,24852,4060,Banana,24,4
+4,14,24852,4135,Banana,24,4
+4,15,24852,4217,Banana,24,4
+4,16,24852,4293,Banana,24,4
+4,17,24852,3679,Banana,24,4
+4,18,24852,3058,Banana,24,4
+4,19,24852,2534,Banana,24,4
+4,20,24852,1985,Banana,24,4
+4,21,24852,1645,Banana,24,4
+4,22,24852,1250,Banana,24,4
+4,23,24852,695,Banana,24,4
+5,0,24852,376,Banana,24,4
+5,1,24852,177,Banana,24,4
+5,2,24852,109,Banana,24,4
+5,3,24852,90,Banana,24,4
+5,4,24852,124,Banana,24,4
+5,5,24852,231,Banana,24,4
+5,6,24852,733,Banana,24,4
+5,7,24852,2102,Banana,24,4
+5,8,24852,3508,Banana,24,4
+5,9,24852,4767,Banana,24,4
+5,10,24852,5122,Banana,24,4
+5,11,24852,4938,Banana,24,4
+5,12,24852,4602,Banana,24,4
+5,13,24852,4682,Banana,24,4
+5,14,24852,4969,Banana,24,4
+5,15,24852,5007,Banana,24,4
+5,16,24852,4735,Banana,24,4
+5,17,24852,3932,Banana,24,4
+5,18,24852,3154,Banana,24,4
+5,19,24852,2505,Banana,24,4
+5,20,24852,1934,Banana,24,4
+5,21,24852,1555,Banana,24,4
+5,22,24852,1163,Banana,24,4
+5,23,24852,766,Banana,24,4
+6,0,24852,420,Banana,24,4
+6,1,24852,226,Banana,24,4
+6,2,24852,138,Banana,24,4
+6,3,24852,92,Banana,24,4
+6,4,24852,88,Banana,24,4
+6,5,24852,144,Banana,24,4
+6,6,24852,530,Banana,24,4
+6,7,24852,1864,Banana,24,4
+6,8,24852,3827,Banana,24,4
+6,9,24852,4767,Banana,24,4
+6,10,24852,5302,Banana,24,4
+6,11,24852,5239,Banana,24,4
+6,12,24852,5181,Banana,24,4
+6,13,24852,5300,Banana,24,4
+6,14,24852,5486,Banana,24,4
+6,15,24852,5558,Banana,24,4
+6,16,24852,5094,Banana,24,4
+6,17,24852,4279,Banana,24,4
+6,18,24852,3403,Banana,24,4
+6,19,24852,2677,Banana,24,4
+6,20,24852,2130,Banana,24,4
+6,21,24852,1791,Banana,24,4
+6,22,24852,1470,Banana,24,4
+6,23,24852,997,Banana,24,4
+0,0,13176,459,Bag of Organic Bananas,24,4
+0,1,13176,272,Bag of Organic Bananas,24,4
+0,2,13176,157,Bag of Organic Bananas,24,4
+0,3,13176,108,Bag of Organic Bananas,24,4
+0,4,13176,82,Bag of Organic Bananas,24,4
+0,5,13176,133,Bag of Organic Bananas,24,4
+0,6,13176,410,Bag of Organic Bananas,24,4
+0,7,13176,1739,Bag of Organic Bananas,24,4
+0,8,13176,3914,Bag of Organic Bananas,24,4
+0,9,13176,5275,Bag of Organic Bananas,24,4
+0,10,13176,5925,Bag of Organic Bananas,24,4
+0,11,13176,5955,Bag of Organic Bananas,24,4
+0,12,13176,6096,Bag of Organic Bananas,24,4
+0,13,13176,6465,Bag of Organic Bananas,24,4
+0,14,13176,6713,Bag of Organic Bananas,24,4
+0,15,13176,6763,Bag of Organic Bananas,24,4
+0,16,13176,6136,Bag of Organic Bananas,24,4
+0,17,13176,4947,Bag of Organic Bananas,24,4
+0,18,13176,3568,Bag of Organic Bananas,24,4
+0,19,13176,2855,Bag of Organic Bananas,24,4
+0,20,13176,2378,Bag of Organic Bananas,24,4
+0,21,13176,2145,Bag of Organic Bananas,24,4
+0,22,13176,1580,Bag of Organic Bananas,24,4
+0,23,13176,977,Bag of Organic Bananas,24,4
+1,0,13176,539,Bag of Organic Bananas,24,4
+1,1,13176,219,Bag of Organic Bananas,24,4
+1,2,13176,114,Bag of Organic Bananas,24,4
+1,3,13176,88,Bag of Organic Bananas,24,4
+1,4,13176,92,Bag of Organic Bananas,24,4
+1,5,13176,233,Bag of Organic Bananas,24,4
+1,6,13176,733,Bag of Organic Bananas,24,4
+1,7,13176,2339,Bag of Organic Bananas,24,4
+1,8,13176,4924,Bag of Organic Bananas,24,4
+1,9,13176,6905,Bag of Organic Bananas,24,4
+1,10,13176,7089,Bag of Organic Bananas,24,4
+1,11,13176,6371,Bag of Organic Bananas,24,4
+1,12,13176,5705,Bag of Organic Bananas,24,4
+1,13,13176,5772,Bag of Organic Bananas,24,4
+1,14,13176,5531,Bag of Organic Bananas,24,4
+1,15,13176,5454,Bag of Organic Bananas,24,4
+1,16,13176,5135,Bag of Organic Bananas,24,4
+1,17,13176,4118,Bag of Organic Bananas,24,4
+1,18,13176,3137,Bag of Organic Bananas,24,4
+1,19,13176,2381,Bag of Organic Bananas,24,4
+1,20,13176,1867,Bag of Organic Bananas,24,4
+1,21,13176,1502,Bag of Organic Bananas,24,4
+1,22,13176,1204,Bag of Organic Bananas,24,4
+1,23,13176,754,Bag of Organic Bananas,24,4
+2,0,13176,415,Bag of Organic Bananas,24,4
+2,1,13176,187,Bag of Organic Bananas,24,4
+2,2,13176,112,Bag of Organic Bananas,24,4
+2,3,13176,80,Bag of Organic Bananas,24,4
+2,4,13176,79,Bag of Organic Bananas,24,4
+2,5,13176,133,Bag of Organic Bananas,24,4
+2,6,13176,572,Bag of Organic Bananas,24,4
+2,7,13176,1705,Bag of Organic Bananas,24,4
+2,8,13176,3012,Bag of Organic Bananas,24,4
+2,9,13176,4257,Bag of Organic Bananas,24,4
+2,10,13176,4419,Bag of Organic Bananas,24,4
+2,11,13176,4304,Bag of Organic Bananas,24,4
+2,12,13176,3935,Bag of Organic Bananas,24,4
+2,13,13176,4100,Bag of Organic Bananas,24,4
+2,14,13176,4044,Bag of Organic Bananas,24,4
+2,15,13176,4171,Bag of Organic Bananas,24,4
+2,16,13176,3911,Bag of Organic Bananas,24,4
+2,17,13176,3215,Bag of Organic Bananas,24,4
+2,18,13176,2722,Bag of Organic Bananas,24,4
+2,19,13176,2148,Bag of Organic Bananas,24,4
+2,20,13176,1648,Bag of Organic Bananas,24,4
+2,21,13176,1275,Bag of Organic Bananas,24,4
+2,22,13176,1020,Bag of Organic Bananas,24,4
+2,23,13176,658,Bag of Organic Bananas,24,4
+3,0,13176,351,Bag of Organic Bananas,24,4
+3,1,13176,167,Bag of Organic Bananas,24,4
+3,2,13176,110,Bag of Organic Bananas,24,4
+3,3,13176,71,Bag of Organic Bananas,24,4
+3,4,13176,93,Bag of Organic Bananas,24,4
+3,5,13176,133,Bag of Organic Bananas,24,4
+3,6,13176,508,Bag of Organic Bananas,24,4
+3,7,13176,1525,Bag of Organic Bananas,24,4
+3,8,13176,2627,Bag of Organic Bananas,24,4
+3,9,13176,3590,Bag of Organic Bananas,24,4
+3,10,13176,3776,Bag of Organic Bananas,24,4
+3,11,13176,3709,Bag of Organic Bananas,24,4
+3,12,13176,3514,Bag of Organic Bananas,24,4
+3,13,13176,3653,Bag of Organic Bananas,24,4
+3,14,13176,3705,Bag of Organic Bananas,24,4
+3,15,13176,3803,Bag of Organic Bananas,24,4
+3,16,13176,3580,Bag of Organic Bananas,24,4
+3,17,13176,3128,Bag of Organic Bananas,24,4
+3,18,13176,2529,Bag of Organic Bananas,24,4
+3,19,13176,2073,Bag of Organic Bananas,24,4
+3,20,13176,1555,Bag of Organic Bananas,24,4
+3,21,13176,1280,Bag of Organic Bananas,24,4
+3,22,13176,1061,Bag of Organic Bananas,24,4
+3,23,13176,663,Bag of Organic Bananas,24,4
+4,0,13176,320,Bag of Organic Bananas,24,4
+4,1,13176,181,Bag of Organic Bananas,24,4
+4,2,13176,93,Bag of Organic Bananas,24,4
+4,3,13176,75,Bag of Organic Bananas,24,4
+4,4,13176,97,Bag of Organic Bananas,24,4
+4,5,13176,151,Bag of Organic Bananas,24,4
+4,6,13176,504,Bag of Organic Bananas,24,4
+4,7,13176,1602,Bag of Organic Bananas,24,4
+4,8,13176,2597,Bag of Organic Bananas,24,4
+4,9,13176,3513,Bag of Organic Bananas,24,4
+4,10,13176,3716,Bag of Organic Bananas,24,4
+4,11,13176,3453,Bag of Organic Bananas,24,4
+4,12,13176,3416,Bag of Organic Bananas,24,4
+4,13,13176,3533,Bag of Organic Bananas,24,4
+4,14,13176,3479,Bag of Organic Bananas,24,4
+4,15,13176,3644,Bag of Organic Bananas,24,4
+4,16,13176,3679,Bag of Organic Bananas,24,4
+4,17,13176,2975,Bag of Organic Bananas,24,4
+4,18,13176,2496,Bag of Organic Bananas,24,4
+4,19,13176,2018,Bag of Organic Bananas,24,4
+4,20,13176,1674,Bag of Organic Bananas,24,4
+4,21,13176,1309,Bag of Organic Bananas,24,4
+4,22,13176,1155,Bag of Organic Bananas,24,4
+4,23,13176,678,Bag of Organic Bananas,24,4
+5,0,13176,359,Bag of Organic Bananas,24,4
+5,1,13176,198,Bag of Organic Bananas,24,4
+5,2,13176,113,Bag of Organic Bananas,24,4
+5,3,13176,100,Bag of Organic Bananas,24,4
+5,4,13176,92,Bag of Organic Bananas,24,4
+5,5,13176,147,Bag of Organic Bananas,24,4
+5,6,13176,570,Bag of Organic Bananas,24,4
+5,7,13176,1712,Bag of Organic Bananas,24,4
+5,8,13176,2840,Bag of Organic Bananas,24,4
+5,9,13176,3936,Bag of Organic Bananas,24,4
+5,10,13176,4129,Bag of Organic Bananas,24,4
+5,11,13176,4199,Bag of Organic Bananas,24,4
+5,12,13176,3906,Bag of Organic Bananas,24,4
+5,13,13176,3913,Bag of Organic Bananas,24,4
+5,14,13176,4284,Bag of Organic Bananas,24,4
+5,15,13176,4129,Bag of Organic Bananas,24,4
+5,16,13176,4035,Bag of Organic Bananas,24,4
+5,17,13176,3219,Bag of Organic Bananas,24,4
+5,18,13176,2553,Bag of Organic Bananas,24,4
+5,19,13176,1937,Bag of Organic Bananas,24,4
+5,20,13176,1455,Bag of Organic Bananas,24,4
+5,21,13176,1134,Bag of Organic Bananas,24,4
+5,22,13176,953,Bag of Organic Bananas,24,4
+5,23,13176,632,Bag of Organic Bananas,24,4
+6,0,13176,394,Bag of Organic Bananas,24,4
+6,1,13176,222,Bag of Organic Bananas,24,4
+6,2,13176,141,Bag of Organic Bananas,24,4
+6,3,13176,78,Bag of Organic Bananas,24,4
+6,4,13176,93,Bag of Organic Bananas,24,4
+6,5,13176,137,Bag of Organic Bananas,24,4
+6,6,13176,421,Bag of Organic Bananas,24,4
+6,7,13176,1573,Bag of Organic Bananas,24,4
+6,8,13176,3051,Bag of Organic Bananas,24,4
+6,9,13176,3893,Bag of Organic Bananas,24,4
+6,10,13176,4009,Bag of Organic Bananas,24,4
+6,11,13176,4116,Bag of Organic Bananas,24,4
+6,12,13176,4047,Bag of Organic Bananas,24,4
+6,13,13176,4078,Bag of Organic Bananas,24,4
+6,14,13176,4354,Bag of Organic Bananas,24,4
+6,15,13176,4289,Bag of Organic Bananas,24,4
+6,16,13176,4031,Bag of Organic Bananas,24,4
+6,17,13176,3264,Bag of Organic Bananas,24,4
+6,18,13176,2619,Bag of Organic Bananas,24,4
+6,19,13176,2016,Bag of Organic Bananas,24,4
+6,20,13176,1509,Bag of Organic Bananas,24,4
+6,21,13176,1291,Bag of Organic Bananas,24,4
+6,22,13176,1081,Bag of Organic Bananas,24,4
+6,23,13176,736,Bag of Organic Bananas,24,4
+0,0,21903,365,Organic Baby Spinach,123,4
+0,1,21903,227,Organic Baby Spinach,123,4
+0,3,21903,84,Organic Baby Spinach,123,4
+0,9,21903,4135,Organic Baby Spinach,123,4
+0,10,21903,4895,Organic Baby Spinach,123,4
+0,11,21903,4999,Organic Baby Spinach,123,4
+0,12,21903,4999,Organic Baby Spinach,123,4
+0,13,21903,5179,Organic Baby Spinach,123,4
+0,14,21903,5280,Organic Baby Spinach,123,4
+0,15,21903,5186,Organic Baby Spinach,123,4
+1,1,21903,157,Organic Baby Spinach,123,4
+1,2,21903,85,Organic Baby Spinach,123,4
+1,3,21903,52,Organic Baby Spinach,123,4
+1,17,21903,2741,Organic Baby Spinach,123,4
+1,18,21903,2150,Organic Baby Spinach,123,4
+2,0,21903,252,Organic Baby Spinach,123,4
+2,2,21903,62,Organic Baby Spinach,123,4
+2,3,21903,57,Organic Baby Spinach,123,4
+2,4,21903,64,Organic Baby Spinach,123,4
+2,5,21903,106,Organic Baby Spinach,123,4
+2,17,21903,2089,Organic Baby Spinach,123,4
+3,1,21903,115,Organic Baby Spinach,123,4
+3,2,21903,68,Organic Baby Spinach,123,4
+3,3,21903,44,Organic Baby Spinach,123,4
+3,4,21903,46,Organic Baby Spinach,123,4
+4,1,21903,105,Organic Baby Spinach,123,4
+4,2,21903,64,Organic Baby Spinach,123,4
+4,5,21903,86,Organic Baby Spinach,123,4
+5,1,21903,118,Organic Baby Spinach,123,4
+5,2,21903,67,Organic Baby Spinach,123,4
+5,3,21903,59,Organic Baby Spinach,123,4
+5,4,21903,75,Organic Baby Spinach,123,4
+6,1,21903,168,Organic Baby Spinach,123,4
+6,2,21903,88,Organic Baby Spinach,123,4
+6,3,21903,66,Organic Baby Spinach,123,4
+6,10,21903,3081,Organic Baby Spinach,123,4
+6,11,21903,3024,Organic Baby Spinach,123,4
+6,12,21903,2981,Organic Baby Spinach,123,4
+6,23,21903,592,Organic Baby Spinach,123,4
+0,2,21137,107,Organic Strawberries,24,4
+0,4,21137,59,Organic Strawberries,24,4
+0,5,21137,116,Organic Strawberries,24,4
+0,6,21137,316,Organic Strawberries,24,4
+0,7,21137,1475,Organic Strawberries,24,4
+0,8,21137,3117,Organic Strawberries,24,4
+0,16,21137,4656,Organic Strawberries,24,4
+0,17,21137,3632,Organic Strawberries,24,4
+0,18,21137,2713,Organic Strawberries,24,4
+0,19,21137,2136,Organic Strawberries,24,4
+0,20,21137,1887,Organic Strawberries,24,4
+0,21,21137,1619,Organic Strawberries,24,4
+0,22,21137,1254,Organic Strawberries,24,4
+0,23,21137,708,Organic Strawberries,24,4
+1,0,21137,338,Organic Strawberries,24,4
+1,4,21137,66,Organic Strawberries,24,4
+1,5,21137,141,Organic Strawberries,24,4
+1,6,21137,574,Organic Strawberries,24,4
+1,7,21137,1739,Organic Strawberries,24,4
+1,8,21137,3120,Organic Strawberries,24,4
+1,9,21137,4071,Organic Strawberries,24,4
+1,10,21137,4304,Organic Strawberries,24,4
+1,11,21137,4019,Organic Strawberries,24,4
+1,12,21137,3824,Organic Strawberries,24,4
+1,13,21137,3909,Organic Strawberries,24,4
+1,14,21137,3882,Organic Strawberries,24,4
+1,15,21137,3719,Organic Strawberries,24,4
+1,16,21137,3557,Organic Strawberries,24,4
+1,19,21137,1648,Organic Strawberries,24,4
+1,20,21137,1429,Organic Strawberries,24,4
+1,21,21137,1107,Organic Strawberries,24,4
+1,22,21137,832,Organic Strawberries,24,4
+1,23,21137,527,Organic Strawberries,24,4
+2,1,21137,114,Organic Strawberries,24,4
+2,6,21137,411,Organic Strawberries,24,4
+2,7,21137,1206,Organic Strawberries,24,4
+2,8,21137,1905,Organic Strawberries,24,4
+2,9,21137,2491,Organic Strawberries,24,4
+2,10,21137,2655,Organic Strawberries,24,4
+2,11,21137,2634,Organic Strawberries,24,4
+2,12,21137,2534,Organic Strawberries,24,4
+2,13,21137,2664,Organic Strawberries,24,4
+2,14,21137,2710,Organic Strawberries,24,4
+2,15,21137,2672,Organic Strawberries,24,4
+2,16,21137,2696,Organic Strawberries,24,4
+2,18,21137,1785,Organic Strawberries,24,4
+2,19,21137,1368,Organic Strawberries,24,4
+2,20,21137,1130,Organic Strawberries,24,4
+2,21,21137,916,Organic Strawberries,24,4
+2,22,21137,735,Organic Strawberries,24,4
+2,23,21137,441,Organic Strawberries,24,4
+3,0,21137,217,Organic Strawberries,24,4
+3,5,21137,102,Organic Strawberries,24,4
+3,6,21137,390,Organic Strawberries,24,4
+3,7,21137,1107,Organic Strawberries,24,4
+3,8,21137,1717,Organic Strawberries,24,4
+3,9,21137,2292,Organic Strawberries,24,4
+3,10,21137,2363,Organic Strawberries,24,4
+3,11,21137,2453,Organic Strawberries,24,4
+3,12,21137,2280,Organic Strawberries,24,4
+3,13,21137,2481,Organic Strawberries,24,4
+3,14,21137,2458,Organic Strawberries,24,4
+3,15,21137,2640,Organic Strawberries,24,4
+3,16,21137,2462,Organic Strawberries,24,4
+3,17,21137,2055,Organic Strawberries,24,4
+3,18,21137,1787,Organic Strawberries,24,4
+3,19,21137,1412,Organic Strawberries,24,4
+3,20,21137,1073,Organic Strawberries,24,4
+3,21,21137,935,Organic Strawberries,24,4
+3,22,21137,752,Organic Strawberries,24,4
+3,23,21137,453,Organic Strawberries,24,4
+4,0,21137,216,Organic Strawberries,24,4
+4,4,21137,56,Organic Strawberries,24,4
+4,6,21137,418,Organic Strawberries,24,4
+4,7,21137,1163,Organic Strawberries,24,4
+4,8,21137,1786,Organic Strawberries,24,4
+4,9,21137,2278,Organic Strawberries,24,4
+4,10,21137,2448,Organic Strawberries,24,4
+4,11,21137,2376,Organic Strawberries,24,4
+4,12,21137,2272,Organic Strawberries,24,4
+4,13,21137,2491,Organic Strawberries,24,4
+4,14,21137,2394,Organic Strawberries,24,4
+4,15,21137,2385,Organic Strawberries,24,4
+4,16,21137,2488,Organic Strawberries,24,4
+4,17,21137,2004,Organic Strawberries,24,4
+4,18,21137,1754,Organic Strawberries,24,4
+4,19,21137,1487,Organic Strawberries,24,4
+4,20,21137,1212,Organic Strawberries,24,4
+4,21,21137,1036,Organic Strawberries,24,4
+4,22,21137,845,Organic Strawberries,24,4
+4,23,21137,498,Organic Strawberries,24,4
+5,0,21137,254,Organic Strawberries,24,4
+5,5,21137,130,Organic Strawberries,24,4
+5,6,21137,442,Organic Strawberries,24,4
+5,7,21137,1380,Organic Strawberries,24,4
+5,8,21137,2102,Organic Strawberries,24,4
+5,9,21137,2686,Organic Strawberries,24,4
+5,10,21137,2819,Organic Strawberries,24,4
+5,11,21137,2889,Organic Strawberries,24,4
+5,12,21137,2697,Organic Strawberries,24,4
+5,13,21137,2831,Organic Strawberries,24,4
+5,14,21137,2897,Organic Strawberries,24,4
+5,15,21137,2849,Organic Strawberries,24,4
+5,16,21137,2663,Organic Strawberries,24,4
+5,17,21137,2184,Organic Strawberries,24,4
+5,18,21137,1742,Organic Strawberries,24,4
+5,19,21137,1387,Organic Strawberries,24,4
+5,20,21137,1132,Organic Strawberries,24,4
+5,21,21137,932,Organic Strawberries,24,4
+5,22,21137,778,Organic Strawberries,24,4
+5,23,21137,465,Organic Strawberries,24,4
+6,0,21137,276,Organic Strawberries,24,4
+6,4,21137,58,Organic Strawberries,24,4
+6,5,21137,100,Organic Strawberries,24,4
+6,6,21137,314,Organic Strawberries,24,4
+6,7,21137,1221,Organic Strawberries,24,4
+6,8,21137,2336,Organic Strawberries,24,4
+6,9,21137,2827,Organic Strawberries,24,4
+6,13,21137,3089,Organic Strawberries,24,4
+6,14,21137,3190,Organic Strawberries,24,4
+6,15,21137,3149,Organic Strawberries,24,4
+6,16,21137,3029,Organic Strawberries,24,4
+6,17,21137,2400,Organic Strawberries,24,4
+6,18,21137,1946,Organic Strawberries,24,4
+6,19,21137,1484,Organic Strawberries,24,4
+6,20,21137,1216,Organic Strawberries,24,4
+6,21,21137,1117,Organic Strawberries,24,4
+6,22,21137,926,Organic Strawberries,24,4
+4,3,47209,43,Organic Hass Avocado,24,4

@@ -1,0 +1,653 @@
+,antecedants,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+0,"Organic Rolled Oats, Dried Mango",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+1,"Organic Rolled Oats, Organic Pearled Barley",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+2,"Dried Mango, Organic Pearled Barley",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+3,Organic Rolled Oats,"Dried Mango, Organic Pearled Barley",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+4,Dried Mango,"Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+5,Organic Pearled Barley,"Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+6,"Organic Mung Beans, Organic Royal Rainbow Quinoa",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+7,"Organic Mung Beans, Dried Mango",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+8,"Organic Royal Rainbow Quinoa, Dried Mango",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+9,Organic Mung Beans,"Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+10,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+11,Dried Mango,"Organic Mung Beans, Organic Royal Rainbow Quinoa",0.5,0.5,0.5,1.0,2.0,0.25,inf
+12,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+13,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+14,"Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+15,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Rolled Oats",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+16,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Organic Pearled Barley, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+17,"Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+18,"Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+19,"Organic Royal Rainbow Quinoa, Organic Pearled Barley","Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+20,"Organic Royal Rainbow Quinoa, Organic Rolled Oats","Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+21,"Organic Pearled Barley, Organic Rolled Oats","Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+22,Organic Short Brown Sprouted Rice,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+23,Organic Royal Rainbow Quinoa,"Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+24,Organic Pearled Barley,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+25,Organic Rolled Oats,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+26,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+27,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+28,"Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+29,"Organic Rolled Oats, Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+30,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Rolled Oats",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+31,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Organic Pearled Barley, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+32,"Organic Mung Beans, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+33,"Organic Mung Beans, Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+34,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+35,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+36,"Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa",0.5,0.5,0.5,1.0,2.0,0.25,inf
+37,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley","Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+38,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats","Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+39,"Organic Mung Beans, Organic Pearled Barley, Organic Rolled Oats","Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+40,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Rolled Oats","Organic Mung Beans, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+41,"Organic Mung Beans, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+42,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Pearled Barley, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+43,"Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+44,"Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+45,"Organic Mung Beans, Organic Royal Rainbow Quinoa","Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+46,"Organic Mung Beans, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+47,"Organic Mung Beans, Organic Rolled Oats","Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+48,"Organic Royal Rainbow Quinoa, Organic Pearled Barley","Organic Mung Beans, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+49,"Organic Royal Rainbow Quinoa, Organic Rolled Oats","Organic Mung Beans, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+50,"Organic Pearled Barley, Organic Rolled Oats","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+51,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+52,Organic Mung Beans,"Organic Rolled Oats, Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+53,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+54,Organic Pearled Barley,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+55,Organic Rolled Oats,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+56,Organic Pearled Barley,Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+57,Organic Short Brown Sprouted Rice,Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+58,"Dried Mango, Organic Short Brown Sprouted Rice",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+59,"Organic Rolled Oats, Organic Short Brown Sprouted Rice",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+60,"Dried Mango, Organic Rolled Oats",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+61,Organic Short Brown Sprouted Rice,"Dried Mango, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+62,Dried Mango,"Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+63,Organic Rolled Oats,"Dried Mango, Organic Short Brown Sprouted Rice",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+64,Organic Royal Rainbow Quinoa,Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+65,Organic Pearled Barley,Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+66,"Dried Mango, Organic Rolled Oats, Organic Short Brown Sprouted Rice",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+67,"Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+68,"Organic Rolled Oats, Organic Pearled Barley, Dried Mango",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+69,"Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+70,"Organic Rolled Oats, Organic Short Brown Sprouted Rice","Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+71,"Organic Rolled Oats, Dried Mango","Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+72,"Organic Rolled Oats, Organic Pearled Barley","Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+73,"Dried Mango, Organic Short Brown Sprouted Rice","Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+74,"Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+75,"Dried Mango, Organic Pearled Barley","Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+76,Organic Rolled Oats,"Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+77,Organic Short Brown Sprouted Rice,"Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+78,Dried Mango,"Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+79,Organic Pearled Barley,"Dried Mango, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+80,Dried Mango,Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+81,Organic Short Brown Sprouted Rice,Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+82,"Organic Magic Muesli, Organic Split Green Peas",Organic Red Kidney Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+83,"Organic Red Kidney Beans, Organic Split Green Peas",Organic Magic Muesli,0.5,0.5,0.5,1.0,2.0,0.25,inf
+84,"Organic Magic Muesli, Organic Red Kidney Beans",Organic Split Green Peas,0.5,0.5,0.5,1.0,2.0,0.25,inf
+85,Organic Split Green Peas,"Organic Magic Muesli, Organic Red Kidney Beans",0.5,0.5,0.5,1.0,2.0,0.25,inf
+86,Organic Magic Muesli,"Organic Red Kidney Beans, Organic Split Green Peas",0.5,0.5,0.5,1.0,2.0,0.25,inf
+87,Organic Red Kidney Beans,"Organic Magic Muesli, Organic Split Green Peas",0.5,0.5,0.5,1.0,2.0,0.25,inf
+88,"Organic Mung Beans, Organic Royal Rainbow Quinoa",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+89,"Organic Mung Beans, Organic Rolled Oats",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+90,"Organic Royal Rainbow Quinoa, Organic Rolled Oats",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+91,Organic Mung Beans,"Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+92,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+93,Organic Rolled Oats,"Organic Mung Beans, Organic Royal Rainbow Quinoa",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+94,"Organic Rolled Oats, Organic Split Green Peas",Organic Red Kidney Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+95,"Organic Red Kidney Beans, Organic Split Green Peas",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+96,"Organic Rolled Oats, Organic Red Kidney Beans",Organic Split Green Peas,0.5,0.5,0.5,1.0,2.0,0.25,inf
+97,Organic Split Green Peas,"Organic Rolled Oats, Organic Red Kidney Beans",0.5,0.5,0.5,1.0,2.0,0.25,inf
+98,Organic Rolled Oats,"Organic Red Kidney Beans, Organic Split Green Peas",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+99,Organic Red Kidney Beans,"Organic Rolled Oats, Organic Split Green Peas",0.5,0.5,0.5,1.0,2.0,0.25,inf
+100,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+101,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+102,"Organic Mung Beans, Organic Pearled Barley, Organic Rolled Oats",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+103,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Rolled Oats",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+104,"Organic Mung Beans, Organic Royal Rainbow Quinoa","Organic Pearled Barley, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+105,"Organic Mung Beans, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+106,"Organic Mung Beans, Organic Rolled Oats","Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+107,"Organic Royal Rainbow Quinoa, Organic Pearled Barley","Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+108,"Organic Royal Rainbow Quinoa, Organic Rolled Oats","Organic Mung Beans, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+109,"Organic Pearled Barley, Organic Rolled Oats","Organic Mung Beans, Organic Royal Rainbow Quinoa",0.5,0.5,0.5,1.0,2.0,0.25,inf
+110,Organic Mung Beans,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+111,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Organic Pearled Barley, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+112,Organic Pearled Barley,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+113,Organic Rolled Oats,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+114,Organic Royal Rainbow Quinoa,Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+115,Organic Short Brown Sprouted Rice,Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+116,"Dried Mango, Organic Short Brown Sprouted Rice",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+117,"Organic Pearled Barley, Organic Short Brown Sprouted Rice",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+118,"Dried Mango, Organic Pearled Barley",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+119,Organic Short Brown Sprouted Rice,"Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+120,Dried Mango,"Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+121,Organic Pearled Barley,"Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+122,Organic Royal Rainbow Quinoa,Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+123,Organic Rolled Oats,Organic Royal Rainbow Quinoa,1.0,0.5,0.5,0.5,1.0,0.0,1.0
+124,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+125,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+126,"Organic Mung Beans, Dried Mango, Organic Rolled Oats",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+127,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Rolled Oats",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+128,"Organic Mung Beans, Organic Royal Rainbow Quinoa","Dried Mango, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+129,"Organic Mung Beans, Dried Mango","Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+130,"Organic Mung Beans, Organic Rolled Oats","Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+131,"Organic Royal Rainbow Quinoa, Dried Mango","Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+132,"Organic Royal Rainbow Quinoa, Organic Rolled Oats","Organic Mung Beans, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+133,"Dried Mango, Organic Rolled Oats","Organic Mung Beans, Organic Royal Rainbow Quinoa",0.5,0.5,0.5,1.0,2.0,0.25,inf
+134,Organic Mung Beans,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+135,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Dried Mango, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+136,Dried Mango,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+137,Organic Rolled Oats,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+138,Organic Magic Muesli,Organic Split Green Peas,0.5,0.5,0.5,1.0,2.0,0.25,inf
+139,Organic Split Green Peas,Organic Magic Muesli,0.5,0.5,0.5,1.0,2.0,0.25,inf
+140,Organic Mung Beans,Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+141,Dried Mango,Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+142,"Organic Magic Muesli, Organic Split Green Peas",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+143,"Organic Rolled Oats, Organic Split Green Peas",Organic Magic Muesli,0.5,0.5,0.5,1.0,2.0,0.25,inf
+144,"Organic Magic Muesli, Organic Rolled Oats",Organic Split Green Peas,0.5,0.5,0.5,1.0,2.0,0.25,inf
+145,Organic Split Green Peas,"Organic Magic Muesli, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+146,Organic Magic Muesli,"Organic Rolled Oats, Organic Split Green Peas",0.5,0.5,0.5,1.0,2.0,0.25,inf
+147,Organic Rolled Oats,"Organic Magic Muesli, Organic Split Green Peas",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+148,"Organic Mung Beans, Organic Pearled Barley",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+149,"Organic Mung Beans, Organic Rolled Oats",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+150,"Organic Pearled Barley, Organic Rolled Oats",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+151,Organic Mung Beans,"Organic Pearled Barley, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+152,Organic Pearled Barley,"Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+153,Organic Rolled Oats,"Organic Mung Beans, Organic Pearled Barley",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+154,Organic Split Green Peas,Organic Red Kidney Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+155,Organic Red Kidney Beans,Organic Split Green Peas,0.5,0.5,0.5,1.0,2.0,0.25,inf
+156,Organic Mung Beans,Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+157,Organic Pearled Barley,Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+158,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+159,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+160,"Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+161,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+162,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+163,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats","Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+164,"Organic Mung Beans, Organic Rolled Oats, Dried Mango","Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+165,"Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+166,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango","Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+167,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley","Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+168,"Organic Mung Beans, Dried Mango, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+169,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango","Organic Mung Beans, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+170,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley","Organic Mung Beans, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+171,"Organic Rolled Oats, Organic Pearled Barley, Dried Mango","Organic Mung Beans, Organic Royal Rainbow Quinoa",0.5,0.5,0.5,1.0,2.0,0.25,inf
+172,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley","Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+173,"Organic Mung Beans, Organic Rolled Oats","Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+174,"Organic Mung Beans, Organic Royal Rainbow Quinoa","Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+175,"Organic Mung Beans, Dried Mango","Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+176,"Organic Mung Beans, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+177,"Organic Royal Rainbow Quinoa, Organic Rolled Oats","Organic Mung Beans, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+178,"Organic Rolled Oats, Dried Mango","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+179,"Organic Rolled Oats, Organic Pearled Barley","Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+180,"Organic Royal Rainbow Quinoa, Dried Mango","Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+181,"Organic Royal Rainbow Quinoa, Organic Pearled Barley","Organic Mung Beans, Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+182,"Dried Mango, Organic Pearled Barley","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+183,Organic Mung Beans,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+184,Organic Rolled Oats,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+185,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+186,Dried Mango,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+187,Organic Pearled Barley,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+188,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+189,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+190,"Organic Mung Beans, Dried Mango, Organic Pearled Barley",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+191,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+192,"Organic Mung Beans, Organic Royal Rainbow Quinoa","Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+193,"Organic Mung Beans, Dried Mango","Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+194,"Organic Mung Beans, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+195,"Organic Royal Rainbow Quinoa, Dried Mango","Organic Mung Beans, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+196,"Organic Royal Rainbow Quinoa, Organic Pearled Barley","Organic Mung Beans, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+197,"Dried Mango, Organic Pearled Barley","Organic Mung Beans, Organic Royal Rainbow Quinoa",0.5,0.5,0.5,1.0,2.0,0.25,inf
+198,Organic Mung Beans,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+199,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+200,Dried Mango,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+201,Organic Pearled Barley,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+202,"Organic Mung Beans, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+203,"Organic Mung Beans, Organic Rolled Oats, Organic Short Brown Sprouted Rice",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+204,"Organic Mung Beans, Organic Pearled Barley, Organic Rolled Oats",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+205,"Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+206,"Organic Mung Beans, Organic Short Brown Sprouted Rice","Organic Pearled Barley, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+207,"Organic Mung Beans, Organic Pearled Barley","Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+208,"Organic Mung Beans, Organic Rolled Oats","Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+209,"Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+210,"Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+211,"Organic Pearled Barley, Organic Rolled Oats","Organic Mung Beans, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+212,Organic Mung Beans,"Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+213,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Organic Pearled Barley, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+214,Organic Pearled Barley,"Organic Mung Beans, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+215,Organic Rolled Oats,"Organic Mung Beans, Organic Pearled Barley, Organic Short Brown Sprouted Rice",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+216,"Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+217,"Organic Rolled Oats, Organic Short Brown Sprouted Rice",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+218,"Organic Pearled Barley, Organic Rolled Oats",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+219,Organic Short Brown Sprouted Rice,"Organic Pearled Barley, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+220,Organic Pearled Barley,"Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+221,Organic Rolled Oats,"Organic Pearled Barley, Organic Short Brown Sprouted Rice",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+222,Organic Royal Rainbow Quinoa,Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+223,Dried Mango,Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+224,"Organic Mung Beans, Organic Royal Rainbow Quinoa",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+225,"Organic Mung Beans, Organic Short Brown Sprouted Rice",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+226,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+227,Organic Mung Beans,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+228,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+229,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Organic Royal Rainbow Quinoa",0.5,0.5,0.5,1.0,2.0,0.25,inf
+230,Organic Mung Beans,Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+231,Organic Rolled Oats,Organic Mung Beans,1.0,0.5,0.5,0.5,1.0,0.0,1.0
+232,Organic Mung Beans,Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+233,Organic Short Brown Sprouted Rice,Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+234,"Organic Mung Beans, Dried Mango",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+235,"Organic Mung Beans, Organic Pearled Barley",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+236,"Dried Mango, Organic Pearled Barley",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+237,Organic Mung Beans,"Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+238,Dried Mango,"Organic Mung Beans, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+239,Organic Pearled Barley,"Organic Mung Beans, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+240,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+241,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+242,"Organic Mung Beans, Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+243,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+244,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+245,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+246,"Organic Mung Beans, Dried Mango, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+247,"Organic Mung Beans, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+248,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+249,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Mung Beans, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+250,"Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa",0.5,0.5,0.5,1.0,2.0,0.25,inf
+251,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango","Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+252,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley","Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+253,"Organic Mung Beans, Dried Mango, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+254,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley","Organic Mung Beans, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+255,"Organic Mung Beans, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+256,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Organic Mung Beans, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+257,"Dried Mango, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+258,"Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+259,"Organic Mung Beans, Organic Royal Rainbow Quinoa","Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+260,"Organic Mung Beans, Dried Mango","Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+261,"Organic Mung Beans, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+262,"Organic Royal Rainbow Quinoa, Dried Mango","Organic Mung Beans, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+263,"Organic Royal Rainbow Quinoa, Organic Pearled Barley","Organic Mung Beans, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+264,"Dried Mango, Organic Pearled Barley","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+265,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+266,Organic Mung Beans,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+267,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+268,Dried Mango,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+269,Organic Pearled Barley,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+270,Organic Rolled Oats,Organic Split Green Peas,1.0,0.5,0.5,0.5,1.0,0.0,1.0
+271,Organic Split Green Peas,Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+272,"Organic Royal Rainbow Quinoa, Organic Pearled Barley",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+273,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+274,"Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+275,Organic Royal Rainbow Quinoa,"Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+276,Organic Pearled Barley,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+277,Organic Short Brown Sprouted Rice,"Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+278,Dried Mango,Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+279,Organic Rolled Oats,Dried Mango,1.0,0.5,0.5,0.5,1.0,0.0,1.0
+280,"Organic Mung Beans, Dried Mango, Organic Rolled Oats, Organic Short Brown Sprouted Rice",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+281,"Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+282,"Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+283,"Organic Mung Beans, Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+284,"Dried Mango, Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+285,"Organic Mung Beans, Organic Rolled Oats, Organic Short Brown Sprouted Rice","Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+286,"Organic Mung Beans, Organic Rolled Oats, Dried Mango","Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+287,"Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley","Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+288,"Organic Mung Beans, Dried Mango, Organic Short Brown Sprouted Rice","Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+289,"Organic Mung Beans, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+290,"Organic Mung Beans, Dried Mango, Organic Pearled Barley","Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+291,"Dried Mango, Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+292,"Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Mung Beans, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+293,"Organic Rolled Oats, Organic Pearled Barley, Dried Mango","Organic Mung Beans, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+294,"Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+295,"Organic Mung Beans, Organic Rolled Oats","Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+296,"Organic Mung Beans, Organic Short Brown Sprouted Rice","Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+297,"Organic Mung Beans, Dried Mango","Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+298,"Organic Mung Beans, Organic Pearled Barley","Dried Mango, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+299,"Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Mung Beans, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+300,"Organic Rolled Oats, Dried Mango","Organic Mung Beans, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+301,"Organic Rolled Oats, Organic Pearled Barley","Organic Mung Beans, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+302,"Dried Mango, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+303,"Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+304,"Dried Mango, Organic Pearled Barley","Organic Mung Beans, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+305,Organic Mung Beans,"Dried Mango, Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+306,Organic Rolled Oats,"Organic Mung Beans, Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+307,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+308,Dried Mango,"Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+309,Organic Pearled Barley,"Organic Mung Beans, Dried Mango, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+310,"Organic Mung Beans, Organic Royal Rainbow Quinoa",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+311,"Organic Mung Beans, Organic Pearled Barley",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+312,"Organic Royal Rainbow Quinoa, Organic Pearled Barley",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+313,Organic Mung Beans,"Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+314,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+315,Organic Pearled Barley,"Organic Mung Beans, Organic Royal Rainbow Quinoa",0.5,0.5,0.5,1.0,2.0,0.25,inf
+316,"Organic Mung Beans, Organic Rolled Oats, Dried Mango",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+317,"Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+318,"Organic Mung Beans, Dried Mango, Organic Pearled Barley",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+319,"Organic Rolled Oats, Organic Pearled Barley, Dried Mango",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+320,"Organic Mung Beans, Organic Rolled Oats","Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+321,"Organic Mung Beans, Dried Mango","Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+322,"Organic Mung Beans, Organic Pearled Barley","Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+323,"Organic Rolled Oats, Dried Mango","Organic Mung Beans, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+324,"Organic Rolled Oats, Organic Pearled Barley","Organic Mung Beans, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+325,"Dried Mango, Organic Pearled Barley","Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+326,Organic Mung Beans,"Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+327,Organic Rolled Oats,"Organic Mung Beans, Dried Mango, Organic Pearled Barley",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+328,Dried Mango,"Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+329,Organic Pearled Barley,"Organic Mung Beans, Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+330,"Organic Mung Beans, Dried Mango",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+331,"Organic Mung Beans, Organic Rolled Oats",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+332,"Dried Mango, Organic Rolled Oats",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+333,Organic Mung Beans,"Dried Mango, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+334,Dried Mango,"Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+335,Organic Rolled Oats,"Organic Mung Beans, Dried Mango",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+336,"Organic Mung Beans, Dried Mango",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+337,"Organic Mung Beans, Organic Short Brown Sprouted Rice",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+338,"Dried Mango, Organic Short Brown Sprouted Rice",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+339,Organic Mung Beans,"Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+340,Dried Mango,"Organic Mung Beans, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+341,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+342,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+343,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+344,"Organic Mung Beans, Organic Rolled Oats, Organic Short Brown Sprouted Rice",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+345,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+346,"Organic Mung Beans, Organic Royal Rainbow Quinoa","Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+347,"Organic Mung Beans, Organic Rolled Oats","Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+348,"Organic Mung Beans, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+349,"Organic Royal Rainbow Quinoa, Organic Rolled Oats","Organic Mung Beans, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+350,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+351,"Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa",0.5,0.5,0.5,1.0,2.0,0.25,inf
+352,Organic Mung Beans,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+353,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+354,Organic Rolled Oats,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+355,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+356,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+357,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+358,"Organic Mung Beans, Dried Mango, Organic Short Brown Sprouted Rice",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+359,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+360,"Organic Mung Beans, Organic Royal Rainbow Quinoa","Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+361,"Organic Mung Beans, Dried Mango","Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+362,"Organic Mung Beans, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+363,"Organic Royal Rainbow Quinoa, Dried Mango","Organic Mung Beans, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+364,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Organic Mung Beans, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+365,"Dried Mango, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa",0.5,0.5,0.5,1.0,2.0,0.25,inf
+366,Organic Mung Beans,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+367,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+368,Dried Mango,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+369,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+370,"Organic Magic Muesli, Organic Rolled Oats, Organic Split Green Peas",Organic Red Kidney Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+371,"Organic Red Kidney Beans, Organic Rolled Oats, Organic Split Green Peas",Organic Magic Muesli,0.5,0.5,0.5,1.0,2.0,0.25,inf
+372,"Organic Red Kidney Beans, Organic Rolled Oats, Organic Magic Muesli",Organic Split Green Peas,0.5,0.5,0.5,1.0,2.0,0.25,inf
+373,"Organic Red Kidney Beans, Organic Magic Muesli, Organic Split Green Peas",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+374,"Organic Rolled Oats, Organic Split Green Peas","Organic Magic Muesli, Organic Red Kidney Beans",0.5,0.5,0.5,1.0,2.0,0.25,inf
+375,"Organic Rolled Oats, Organic Magic Muesli","Organic Red Kidney Beans, Organic Split Green Peas",0.5,0.5,0.5,1.0,2.0,0.25,inf
+376,"Organic Rolled Oats, Organic Red Kidney Beans","Organic Magic Muesli, Organic Split Green Peas",0.5,0.5,0.5,1.0,2.0,0.25,inf
+377,"Organic Magic Muesli, Organic Split Green Peas","Organic Rolled Oats, Organic Red Kidney Beans",0.5,0.5,0.5,1.0,2.0,0.25,inf
+378,"Organic Red Kidney Beans, Organic Split Green Peas","Organic Rolled Oats, Organic Magic Muesli",0.5,0.5,0.5,1.0,2.0,0.25,inf
+379,"Organic Magic Muesli, Organic Red Kidney Beans","Organic Rolled Oats, Organic Split Green Peas",0.5,0.5,0.5,1.0,2.0,0.25,inf
+380,Organic Rolled Oats,"Organic Red Kidney Beans, Organic Magic Muesli, Organic Split Green Peas",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+381,Organic Split Green Peas,"Organic Red Kidney Beans, Organic Rolled Oats, Organic Magic Muesli",0.5,0.5,0.5,1.0,2.0,0.25,inf
+382,Organic Magic Muesli,"Organic Red Kidney Beans, Organic Rolled Oats, Organic Split Green Peas",0.5,0.5,0.5,1.0,2.0,0.25,inf
+383,Organic Red Kidney Beans,"Organic Magic Muesli, Organic Rolled Oats, Organic Split Green Peas",0.5,0.5,0.5,1.0,2.0,0.25,inf
+384,"Organic Royal Rainbow Quinoa, Organic Rolled Oats",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+385,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+386,"Organic Rolled Oats, Organic Short Brown Sprouted Rice",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+387,Organic Royal Rainbow Quinoa,"Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+388,Organic Rolled Oats,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+389,Organic Short Brown Sprouted Rice,"Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+390,Dried Mango,Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+391,Organic Pearled Barley,Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+392,"Organic Mung Beans, Organic Pearled Barley",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+393,"Organic Mung Beans, Organic Short Brown Sprouted Rice",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+394,"Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+395,Organic Mung Beans,"Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+396,Organic Pearled Barley,"Organic Mung Beans, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+397,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+398,Organic Mung Beans,Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+399,Organic Royal Rainbow Quinoa,Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+400,"Organic Mung Beans, Dried Mango, Organic Short Brown Sprouted Rice",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+401,"Organic Mung Beans, Organic Rolled Oats, Organic Short Brown Sprouted Rice",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+402,"Organic Mung Beans, Dried Mango, Organic Rolled Oats",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+403,"Organic Rolled Oats, Dried Mango, Organic Short Brown Sprouted Rice",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+404,"Organic Mung Beans, Organic Short Brown Sprouted Rice","Dried Mango, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+405,"Organic Mung Beans, Dried Mango","Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+406,"Organic Mung Beans, Organic Rolled Oats","Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+407,"Dried Mango, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+408,"Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Mung Beans, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+409,"Dried Mango, Organic Rolled Oats","Organic Mung Beans, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+410,Organic Mung Beans,"Organic Rolled Oats, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+411,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Dried Mango, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+412,Dried Mango,"Organic Mung Beans, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+413,Organic Rolled Oats,"Organic Mung Beans, Dried Mango, Organic Short Brown Sprouted Rice",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+414,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+415,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+416,"Organic Mung Beans, Organic Rolled Oats, Dried Mango, Organic Short Brown Sprouted Rice",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+417,"Organic Rolled Oats, Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+418,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Rolled Oats",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+419,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Dried Mango, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+420,"Organic Mung Beans, Dried Mango, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+421,"Organic Mung Beans, Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+422,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+423,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Mung Beans, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+424,"Organic Rolled Oats, Dried Mango, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa",0.5,0.5,0.5,1.0,2.0,0.25,inf
+425,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango","Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+426,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats","Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+427,"Organic Mung Beans, Dried Mango, Organic Rolled Oats","Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+428,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Rolled Oats","Organic Mung Beans, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+429,"Organic Mung Beans, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Dried Mango, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+430,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Organic Mung Beans, Dried Mango, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+431,"Dried Mango, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+432,"Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+433,"Organic Mung Beans, Organic Royal Rainbow Quinoa","Organic Rolled Oats, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+434,"Organic Mung Beans, Dried Mango","Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+435,"Organic Mung Beans, Organic Rolled Oats","Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+436,"Organic Royal Rainbow Quinoa, Dried Mango","Organic Mung Beans, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+437,"Organic Royal Rainbow Quinoa, Organic Rolled Oats","Organic Mung Beans, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+438,"Dried Mango, Organic Rolled Oats","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+439,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+440,Organic Mung Beans,"Organic Rolled Oats, Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+441,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Organic Rolled Oats, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+442,Dried Mango,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+443,Organic Rolled Oats,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+444,"Dried Mango, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+445,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+446,"Dried Mango, Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+447,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+448,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+449,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice","Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+450,"Dried Mango, Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+451,"Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+452,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice","Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+453,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+454,"Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+455,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango","Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+456,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley","Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+457,"Organic Rolled Oats, Organic Pearled Barley, Dried Mango","Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+458,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley","Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+459,"Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+460,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+461,"Dried Mango, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+462,"Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+463,"Organic Royal Rainbow Quinoa, Organic Rolled Oats","Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+464,"Organic Rolled Oats, Dried Mango","Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+465,"Organic Rolled Oats, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+466,"Organic Royal Rainbow Quinoa, Dried Mango","Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+467,"Organic Royal Rainbow Quinoa, Organic Pearled Barley","Dried Mango, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+468,"Dried Mango, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+469,Organic Short Brown Sprouted Rice,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+470,Organic Rolled Oats,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+471,Organic Royal Rainbow Quinoa,"Dried Mango, Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+472,Dried Mango,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+473,Organic Pearled Barley,"Dried Mango, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+474,Organic Magic Muesli,Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+475,Organic Rolled Oats,Organic Magic Muesli,1.0,0.5,0.5,0.5,1.0,0.0,1.0
+476,"Organic Royal Rainbow Quinoa, Dried Mango",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+477,"Organic Royal Rainbow Quinoa, Organic Pearled Barley",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+478,"Dried Mango, Organic Pearled Barley",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+479,Organic Royal Rainbow Quinoa,"Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+480,Dried Mango,"Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+481,Organic Pearled Barley,"Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+482,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+483,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+484,"Organic Mung Beans, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+485,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+486,"Organic Mung Beans, Organic Royal Rainbow Quinoa","Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+487,"Organic Mung Beans, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+488,"Organic Mung Beans, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+489,"Organic Royal Rainbow Quinoa, Organic Pearled Barley","Organic Mung Beans, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+490,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+491,"Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa",0.5,0.5,0.5,1.0,2.0,0.25,inf
+492,Organic Mung Beans,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+493,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+494,Organic Pearled Barley,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+495,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+496,"Organic Mung Beans, Dried Mango, Organic Short Brown Sprouted Rice",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+497,"Organic Mung Beans, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+498,"Organic Mung Beans, Dried Mango, Organic Pearled Barley",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+499,"Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+500,"Organic Mung Beans, Organic Short Brown Sprouted Rice","Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+501,"Organic Mung Beans, Dried Mango","Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+502,"Organic Mung Beans, Organic Pearled Barley","Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+503,"Dried Mango, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+504,"Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Mung Beans, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+505,"Dried Mango, Organic Pearled Barley","Organic Mung Beans, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+506,Organic Mung Beans,"Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+507,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+508,Dried Mango,"Organic Mung Beans, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+509,Organic Pearled Barley,"Organic Mung Beans, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+510,"Organic Mung Beans, Organic Rolled Oats",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+511,"Organic Mung Beans, Organic Short Brown Sprouted Rice",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+512,"Organic Rolled Oats, Organic Short Brown Sprouted Rice",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+513,Organic Mung Beans,"Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+514,Organic Rolled Oats,"Organic Mung Beans, Organic Short Brown Sprouted Rice",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+515,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+516,Organic Magic Muesli,Organic Red Kidney Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+517,Organic Red Kidney Beans,Organic Magic Muesli,0.5,0.5,0.5,1.0,2.0,0.25,inf
+518,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+519,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+520,"Organic Rolled Oats, Organic Pearled Barley, Dried Mango",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+521,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+522,"Organic Royal Rainbow Quinoa, Organic Rolled Oats","Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+523,"Organic Rolled Oats, Dried Mango","Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+524,"Organic Rolled Oats, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+525,"Organic Royal Rainbow Quinoa, Dried Mango","Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+526,"Organic Royal Rainbow Quinoa, Organic Pearled Barley","Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+527,"Dried Mango, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+528,Organic Rolled Oats,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+529,Organic Royal Rainbow Quinoa,"Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+530,Dried Mango,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+531,Organic Pearled Barley,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+532,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+533,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+534,"Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+535,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+536,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+537,"Dried Mango, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+538,"Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+539,"Organic Royal Rainbow Quinoa, Dried Mango","Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+540,"Organic Royal Rainbow Quinoa, Organic Pearled Barley","Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+541,"Dried Mango, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+542,Organic Short Brown Sprouted Rice,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+543,Organic Royal Rainbow Quinoa,"Dried Mango, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+544,Dried Mango,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+545,Organic Pearled Barley,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+546,"Organic Royal Rainbow Quinoa, Dried Mango",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+547,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+548,"Dried Mango, Organic Short Brown Sprouted Rice",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+549,Organic Royal Rainbow Quinoa,"Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+550,Dried Mango,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+551,Organic Short Brown Sprouted Rice,"Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+552,Organic Pearled Barley,Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+553,Organic Rolled Oats,Organic Pearled Barley,1.0,0.5,0.5,0.5,1.0,0.0,1.0
+554,"Organic Royal Rainbow Quinoa, Dried Mango",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+555,"Organic Royal Rainbow Quinoa, Organic Rolled Oats",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+556,"Dried Mango, Organic Rolled Oats",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+557,Organic Royal Rainbow Quinoa,"Dried Mango, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+558,Dried Mango,"Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+559,Organic Rolled Oats,"Organic Royal Rainbow Quinoa, Dried Mango",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+560,Organic Rolled Oats,Organic Red Kidney Beans,1.0,0.5,0.5,0.5,1.0,0.0,1.0
+561,Organic Red Kidney Beans,Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+562,"Organic Rolled Oats, Organic Magic Muesli",Organic Red Kidney Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+563,"Organic Rolled Oats, Organic Red Kidney Beans",Organic Magic Muesli,0.5,0.5,0.5,1.0,2.0,0.25,inf
+564,"Organic Magic Muesli, Organic Red Kidney Beans",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+565,Organic Rolled Oats,"Organic Magic Muesli, Organic Red Kidney Beans",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+566,Organic Magic Muesli,"Organic Rolled Oats, Organic Red Kidney Beans",0.5,0.5,0.5,1.0,2.0,0.25,inf
+567,Organic Red Kidney Beans,"Organic Rolled Oats, Organic Magic Muesli",0.5,0.5,0.5,1.0,2.0,0.25,inf
+568,"Organic Royal Rainbow Quinoa, Organic Pearled Barley",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+569,"Organic Royal Rainbow Quinoa, Organic Rolled Oats",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+570,"Organic Pearled Barley, Organic Rolled Oats",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+571,Organic Royal Rainbow Quinoa,"Organic Pearled Barley, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+572,Organic Pearled Barley,"Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+573,Organic Rolled Oats,"Organic Royal Rainbow Quinoa, Organic Pearled Barley",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+574,Organic Rolled Oats,Organic Short Brown Sprouted Rice,1.0,0.5,0.5,0.5,1.0,0.0,1.0
+575,Organic Short Brown Sprouted Rice,Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+576,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+577,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+578,"Organic Rolled Oats, Dried Mango, Organic Short Brown Sprouted Rice",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+579,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Rolled Oats",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+580,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Dried Mango, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+581,"Dried Mango, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+582,"Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+583,"Organic Royal Rainbow Quinoa, Dried Mango","Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+584,"Organic Royal Rainbow Quinoa, Organic Rolled Oats","Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+585,"Dried Mango, Organic Rolled Oats","Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+586,Organic Short Brown Sprouted Rice,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+587,Organic Royal Rainbow Quinoa,"Organic Rolled Oats, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+588,Dried Mango,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+589,Organic Rolled Oats,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+590,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",Organic Short Brown Sprouted Rice,0.5,0.5,0.5,1.0,2.0,0.25,inf
+591,"Organic Short Brown Sprouted Rice, Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango",Organic Pearled Barley,0.5,0.5,0.5,1.0,2.0,0.25,inf
+592,"Organic Mung Beans, Organic Short Brown Sprouted Rice, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",Organic Royal Rainbow Quinoa,0.5,0.5,0.5,1.0,2.0,0.25,inf
+593,"Organic Short Brown Sprouted Rice, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",Organic Mung Beans,0.5,0.5,0.5,1.0,2.0,0.25,inf
+594,"Organic Short Brown Sprouted Rice, Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley",Dried Mango,0.5,0.5,0.5,1.0,2.0,0.25,inf
+595,"Organic Short Brown Sprouted Rice, Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",Organic Rolled Oats,0.5,1.0,0.5,1.0,1.0,0.0,inf
+596,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango","Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+597,"Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley, Dried Mango","Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+598,"Organic Mung Beans, Organic Short Brown Sprouted Rice, Organic Rolled Oats, Dried Mango","Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+599,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley, Dried Mango","Organic Mung Beans, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+600,"Organic Short Brown Sprouted Rice, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango","Organic Mung Beans, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+601,"Organic Short Brown Sprouted Rice, Organic Rolled Oats, Organic Pearled Barley, Dried Mango","Organic Mung Beans, Organic Royal Rainbow Quinoa",0.5,0.5,0.5,1.0,2.0,0.25,inf
+602,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley","Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+603,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice","Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+604,"Organic Mung Beans, Organic Short Brown Sprouted Rice, Organic Rolled Oats, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+605,"Organic Short Brown Sprouted Rice, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley","Organic Mung Beans, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+606,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley","Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+607,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice","Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+608,"Organic Mung Beans, Organic Short Brown Sprouted Rice, Dried Mango, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+609,"Organic Short Brown Sprouted Rice, Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley","Organic Mung Beans, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+610,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+611,"Organic Mung Beans, Organic Rolled Oats, Dried Mango","Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+612,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango","Organic Mung Beans, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+613,"Organic Rolled Oats, Organic Pearled Barley, Dried Mango","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+614,"Organic Short Brown Sprouted Rice, Organic Rolled Oats, Dried Mango","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+615,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats","Organic Short Brown Sprouted Rice, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+616,"Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+617,"Organic Mung Beans, Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+618,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley","Organic Mung Beans, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+619,"Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Mung Beans, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+620,"Organic Short Brown Sprouted Rice, Organic Rolled Oats, Organic Pearled Barley","Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+621,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango","Organic Short Brown Sprouted Rice, Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+622,"Organic Mung Beans, Dried Mango, Organic Pearled Barley","Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+623,"Organic Mung Beans, Dried Mango, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+624,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley","Organic Mung Beans, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+625,"Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+626,"Organic Short Brown Sprouted Rice, Dried Mango, Organic Pearled Barley","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats",0.5,0.5,0.5,1.0,2.0,0.25,inf
+627,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley","Organic Short Brown Sprouted Rice, Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+628,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+629,"Organic Mung Beans, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+630,"Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+631,"Organic Rolled Oats, Dried Mango","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Pearled Barley, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+632,"Organic Mung Beans, Organic Rolled Oats","Organic Short Brown Sprouted Rice, Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+633,"Organic Royal Rainbow Quinoa, Organic Rolled Oats","Organic Mung Beans, Organic Short Brown Sprouted Rice, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+634,"Organic Rolled Oats, Organic Pearled Barley","Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+635,"Organic Rolled Oats, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+636,"Organic Mung Beans, Dried Mango","Organic Short Brown Sprouted Rice, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+637,"Organic Royal Rainbow Quinoa, Dried Mango","Organic Mung Beans, Organic Short Brown Sprouted Rice, Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+638,"Dried Mango, Organic Pearled Barley","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Short Brown Sprouted Rice",0.5,0.5,0.5,1.0,2.0,0.25,inf
+639,"Dried Mango, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+640,"Organic Mung Beans, Organic Royal Rainbow Quinoa","Organic Short Brown Sprouted Rice, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+641,"Organic Mung Beans, Organic Pearled Barley","Organic Short Brown Sprouted Rice, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+642,"Organic Mung Beans, Organic Short Brown Sprouted Rice","Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+643,"Organic Royal Rainbow Quinoa, Organic Pearled Barley","Organic Mung Beans, Organic Short Brown Sprouted Rice, Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+644,"Organic Royal Rainbow Quinoa, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+645,"Organic Pearled Barley, Organic Short Brown Sprouted Rice","Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+646,Organic Rolled Oats,"Organic Short Brown Sprouted Rice, Organic Mung Beans, Organic Royal Rainbow Quinoa, Dried Mango, Organic Pearled Barley",1.0,0.5,0.5,0.5,1.0,0.0,1.0
+647,Dried Mango,"Organic Short Brown Sprouted Rice, Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley",0.5,0.5,0.5,1.0,2.0,0.25,inf
+648,Organic Mung Beans,"Organic Short Brown Sprouted Rice, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+649,Organic Royal Rainbow Quinoa,"Organic Mung Beans, Organic Short Brown Sprouted Rice, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+650,Organic Pearled Barley,"Organic Short Brown Sprouted Rice, Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf
+651,Organic Short Brown Sprouted Rice,"Organic Mung Beans, Organic Royal Rainbow Quinoa, Organic Rolled Oats, Organic Pearled Barley, Dried Mango",0.5,0.5,0.5,1.0,2.0,0.25,inf

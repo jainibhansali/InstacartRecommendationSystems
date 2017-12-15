@@ -1,0 +1,85 @@
+product_id,department_id,product_name,department
+9076,1,Blueberries,frozen
+20995,1,Organic Broccoli Florets,frozen
+24489,1,Organic Whole Strawberries,frozen
+17948,1,Frozen Organic Wild Blueberries,frozen
+38662,2,Roasted Almond Butter,other
+26756,2,Light CocoWhip! Coconut Whipped Topping,other
+32115,2,93/7 Ground Beef,other
+13475,2,Coconut Almond Granola,other
+5077,3,100% Whole Wheat Bread,bakery
+18362,3,Organic Bread with 21 Whole Grains,bakery
+18027,3,Ezekiel 4:9 Bread Organic Sprouted Whole Grain,bakery
+21267,3,Sourdough Bread,bakery
+24852,4,Banana,produce
+13176,4,Bag of Organic Bananas,produce
+21137,4,Organic Strawberries,produce
+21903,4,Organic Baby Spinach,produce
+2120,5,Sauvignon Blanc,alcohol
+33065,5,Cabernet Sauvignon,alcohol
+38444,5,Chardonnay,alcohol
+46088,5,Beer,alcohol
+36724,6,Organic Sea Salt Roasted Seaweed Snacks,international
+2450,6,Taco Seasoning,international
+39430,6,New Mexico Taco Skillet Sauce For Chicken,international
+23032,6,Sriracha Chili Sauce,international
+44632,7,Sparkling Water Grapefruit,beverages
+19660,7,Spring Water,beverages
+35221,7,Lime Sparkling Water,beverages
+33198,7,Sparkling Natural Mineral Water,beverages
+7076,8,Grain Free Chicken Formula Cat Food,pets
+10863,8,Grain Free Turkey & Salmon Formula Cat Food,pets
+49355,8,Instant Action Cat Litter,pets
+16647,8,Double Duty Advanced Odor Control Clumping Cat Litter,pets
+23375,9,Marinara Sauce,dry goods pasta
+39619,9,Organic Tomato Basil Pasta Sauce,dry goods pasta
+32734,9,Spaghetti,dry goods pasta
+12206,9,Basil Pesto,dry goods pasta
+5161,10,Dried Mango,bulk
+22260,10,Organic Rolled Oats,bulk
+22827,10,Organic Black Mission Figs,bulk
+1000,10,Apricots,bulk
+12312,11,Lavender Hand Soap,personal care
+27544,11,Lemon Verbena Hand Soap,personal care
+33493,11,Cotton Swabs,personal care
+9047,11,Premium Epsom Salt,personal care
+25890,12,Boneless Skinless Chicken Breasts,meat seafood
+38293,12,Ground Turkey Breast,meat seafood
+6046,12,Boneless Skinless Chicken Breast,meat seafood
+47672,12,Uncured Hickory Smoked Sunday Bacon,meat seafood
+31506,13,Extra Virgin Olive Oil,pantry
+30450,13,Creamy Almond Butter,pantry
+16953,13,Creamy Peanut Butter,pantry
+43713,13,Organic Creamy Peanut Butter,pantry
+41844,14,Honey Nut Cheerios,breakfast
+44422,14,Organic Old Fashioned Rolled Oats,breakfast
+6187,14,Raisin Bran Cereal,breakfast
+20955,14,Cereal,breakfast
+27156,15,Organic Black Beans,canned goods
+42768,15,Organic Garbanzo Beans,canned goods
+28849,15,No Salt Added Black Beans,canned goods
+890,15,Organic Diced Tomatoes,canned goods
+27845,16,Organic Whole Milk,dairy eggs
+49235,16,Organic Half & Half,dairy eggs
+27086,16,Half & Half,dairy eggs
+22035,16,Organic Whole String Cheese,dairy eggs
+8021,17,100% Recycled Paper Towels,household
+2086,17,Sustainably Soft Bath Tissue,household
+31066,17,Aluminum Foil,household
+13838,17,Natural Free & Clear Dish Liquid,household
+43875,18,Baby Food Stage 2 Blueberry Pear & Purple Carrot,babies
+34134,18,Spinach Peas & Pear Stage 2 Baby Food,babies
+2611,18,Gluten Free SpongeBob Spinach Littles,babies
+3020,18,Broccoli & Apple Stage 2 Baby Food,babies
+13870,19,Lightly Salted Baked Snap Pea Crisps,snacks
+34448,19,Original Veggie Straws,snacks
+31040,19,Sea Salt Pita Chips,snacks
+21376,19,Pretzel Crisps Original Deli Style Pretzel Crackers,snacks
+30489,20,Original Hummus,deli
+27344,20,Uncured Genoa Salami,deli
+42585,20,Organic Extra Firm Tofu,deli
+22963,20,Organic Roasted Turkey Breast,deli
+41149,21,Organic Riced Cauliflower,missing
+7035,21,Peanut Butter Ice Cream Cup,missing
+38510,21,Organic Celery Bunch,missing
+14010,21,Organic Mango Yogurt,missing
