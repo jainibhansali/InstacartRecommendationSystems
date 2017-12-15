@@ -1,7 +1,9 @@
 # Final-Project for INFO 7390-Advanced Data Science
 #### Project Name - Instacart Market Basket Analysis
 #### Link to Video Proposal - https://www.youtube.com/watch?v=mqcd3F2N5Io&feature=youtu.be
-#### Dataset Name and Link - https://www.kaggle.com/c/instacart-market-basket-analysis/data
+#### Dataset Name and Link - 
+https://www.instacart.com/datasets/grocery-shopping-2017 (This is the original source provided by instacart and we used this in our luigi pipeline)
+https://www.kaggle.com/c/instacart-market-basket-analysis/data
 #### Link to Project Demo Website - 35.190.167.191
 ##### Note to login try using any integer value from 1-230000 as username and any password, Also for accessing the admin page use username-admin, password-tushar
 
