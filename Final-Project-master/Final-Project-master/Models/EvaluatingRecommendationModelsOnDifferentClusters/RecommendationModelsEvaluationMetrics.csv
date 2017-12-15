@@ -1,0 +1,63 @@
+,NDCG,,
+All Data on Azure,0.91,,
+Department 1 Cluster Data,0.95,,
+Department 2 Cluster Data,0.9,,
+Departement 3 Cluster Data,0.97,,
+Department 4 Cluster Data,0.96,,
+Department 5 Cluster Data,0.98,,
+Department 6 Cluster Data,0.98,,
+Department 7 Cluster Data,0.98,,
+Department 8 Cluster Data,0.98,,
+Department 9 Cluster Data,0.96,,
+Department 10 Cluster Data,0.97,,
+Department 11 Cluster Data,0.97,,
+Department 12 Cluster Data,0.98,,
+Department 13 Cluster Data,0.98,,
+Department 14 Cluster Data,0.98,,
+Department 15 Cluster Data,0.95,,
+Department 16 Cluster Data,0.95,,
+Department 17 Cluster Data,0.98,,
+Department 18 Cluster Data,0.96,,
+Department 19 Cluster Data,0.96,,
+Department 20 Cluster Data,0.95,,
+Department 21 Cluster Data,0.91,,
+,,,
+,,,
+Graphlab Recommendations,,,
+All Data ,,,
+,Popularity Based Recommendation,Item Based Recommendation,Model Based Recommendation
+Mean Precision,4.90E-06,4.45 e-06,0.004
+Mean Recall,3.90E-06,2.9 e-06,0.004
+RMSE,0.68,0.68,0.68
+Clustered_data_on_hour,,,
+,Popularity Based Recommendation,Item Based Recommendation,Model Based Recommendation
+Mean Precision,5.1 e-06,6.2 e-06,0.003
+Mean Recall,1.6 e-05,2.6 e-05,0.009
+RMSE,0.6,0.6,0.6
+,,,
+Clustered_data_on_department,,,
+,Popularity Based Recommendation,Item Based Recommendation,Model Based Recommendation
+Mean Precision,0.01,0.01,0.04
+Mean Recall,0.05,0.05,0.12
+RMSE,0.8,0.8,0.8
+,,,
+Clustered_data_on_aisle,,,
+,Popularity Based Recommendation,Item Based Recommendation,Model Based Recommendation
+Mean Precision,0.02,0.02,0.05
+Mean Recall,0.02,0.1,0.28
+RMSE,0.4,0.4,0.4
+,,,
+,,,
+Clustered_data_on_day_of_week,,,
+,Popularity Based Recommendation,Item Based Recommendation,Model Based Recommendation
+Mean Precision,1.48E-06,5.95E-06,0.005
+Mean Recall,1.87E-06,1.43E-06,0.01
+RMSE,0.8,0.8,0.8
+,,,
+Clustered_data_on_time_of_that_day,,,
+,Popularity Based Recommendation,Item Based Recommendation,Model Based Recommendation
+Mean Precision,4 e-06,7.00E-06,6.00E-04
+Mean Recall,3.50E-06,2.60E-05,0.0011
+RMSE,0.3,0.3,0.3
+,,,
+,,,1
