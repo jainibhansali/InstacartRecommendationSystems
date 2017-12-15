@@ -20,3 +20,4 @@
   3. Models - This folder contains all the approaches with summary metrics that we used. It has 2 subfolders a. Apriori b. Recommendation Systems
   4. Webapp - Contains the whole code for the webapplication along with commands on how to run it and the script that can be used without the webapplication
   
+### To get more details on the project please check the file FinalProjectReport.pdf
